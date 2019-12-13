@@ -9,7 +9,7 @@ function App() {
         <h1 className="App-Title">Welcome to Groves IT</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          A cloud native serverless site built with React.js/ CI~CD with Git/ AWS CodePipeline/ CodeBuild; IAC with CloudFormation; Content Delivery with CloudFront, backend with Node and DynamoDb
         </p>
         <a
           className="App-link"
